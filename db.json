@@ -1,4 +1,8 @@
 {
-  "code": "16172330",
-  "targetUrl": "http://onda-frontend-test.scapp.io/"
+	"soundtoken": [
+		{
+      "code": "16172330",
+      "targetUrl": "http://onda-frontend-test.scapp.io/"
+		}
+	]
 }
