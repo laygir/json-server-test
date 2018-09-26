@@ -1,0 +1,60 @@
+{
+  "soundToken": 100,
+  "type": "product",
+  "logo": "merchant_swisscom.png",
+  "currency": "CHF",
+  "currencySymbol": "CHF",
+  "currencyPosition": "right",
+  "productName": "Apple iPhone X",
+  "productBadgeType": "off",
+  "buttonLabel": "BUY NOW",
+  "_comment": "Comment to @eduardo, why do we have buttonAction key/link?",
+  "buttonAction": "http://www.swisscom.ch/products/iphonex",
+  "productMaxOrderAmount": 10,
+  "product": [{
+      "sku": "1",
+      "text": "Dark Navy Grey - 38",
+      "images": ["image01.jpg", "image02.jpg"],
+      "price": 20,
+      "badgeInput": "5"
+    },
+    {
+      "sku": "2",
+      "text": "Dark Navy Grey - 39",
+      "images": ["image01.jpg", "image02.jpg"],
+      "price": 40,
+      "badgeInput": "10"
+    },
+    {
+      "sku": "3",
+      "text": "Dark Navy Grey - 40",
+      "images": ["image01.jpg", "image02.jpg"],
+      "price": 60,
+      "badgeInput": "15"
+    },
+    {
+      "sku": "4",
+      "text": "Dark Navy Grey - 41",
+      "images": ["image01.jpg", "image02.jpg"],
+      "price": 80,
+      "badgeInput": "20"
+    },
+    {
+      "sku": "5",
+      "text": "Dark Navy Grey - 42",
+      "images": ["image01.jpg", "image02.jpg"],
+      "price": 100,
+      "badgeInput": "25"
+    }
+  ],
+  "brandColors": {
+    "background": "tomato",
+    "name": "dodgerblue",
+    "price": "white",
+    "label": "white",
+    "labelBackground": "dodgerblue",
+    "button": "white",
+    "buttonBackground": "dodgerblue",
+    "actionLink": "dodgerblue"
+  }
+}
